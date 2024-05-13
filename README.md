@@ -26,7 +26,6 @@ FOURIER-PROPAGATE-SIM is a Python script for simulating the propagation of light
 - SciPy
 
 ## File Structure
-- `FOURIER-PROPAGATE-SIM.ipynb`: Jupyter Notebook containing the main simulation script.
 - `Illum_Iband.txt` and `Illum_Rband.txt`: External files containing illuminance profiles for specific wavelength bands.
 
 ## Acknowledgments
